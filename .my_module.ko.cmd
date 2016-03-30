@@ -1,0 +1,1 @@
+cmd_/home/wenbo1188/Documents/workspace/linux_kernel_module/my_module.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/wenbo1188/Documents/workspace/linux_kernel_module/my_module.ko /home/wenbo1188/Documents/workspace/linux_kernel_module/my_module.o /home/wenbo1188/Documents/workspace/linux_kernel_module/my_module.mod.o
